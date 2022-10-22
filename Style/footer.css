@@ -1,0 +1,11 @@
+.footer {
+align-items: center;
+display: flex;
+background: #0166FF;
+width: 100%;
+justify-content: space-evenly;
+max-width: 360px
+}
+.one {
+float: center;
+} 
